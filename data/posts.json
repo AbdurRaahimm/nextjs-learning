@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Lean JavaScript",
+        "content": "learn JavaScript in 100 days"
+    },
+    {
+        "id": 2,
+        "title": "Lean TypeScript",
+        "content": "learn TypeScript in 100 days"
+    },
+    {
+        "id": 3,
+        "title": "Lean React",
+        "content": "learn React in 100 days"
+    },
+    {
+        "id": 4,
+        "title": "Lean Next.js",
+        "content": "learn Next.js in 100 days"
+    }
+]
